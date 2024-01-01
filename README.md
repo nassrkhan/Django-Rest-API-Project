@@ -7,7 +7,7 @@ This is a simple Django project demonstrating basic CRUD operations for a `Data`
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/nassrkhan/Django-Rest-API-Project.git
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
